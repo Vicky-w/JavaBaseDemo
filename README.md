@@ -1,2 +1,0 @@
-# JavaBaseDemo
-Java Base Demo
